@@ -1,2 +1,8 @@
 # hello_world_2
-hello world 2
+HTML
+Javascript
+CSS
+Bootstrap
+Node
+Express
+Mongo
